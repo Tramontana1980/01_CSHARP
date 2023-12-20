@@ -24,3 +24,10 @@ Console.WriteLine(quotient);
 d1=6;
 double quotient2 = i1/d1;
 Console.WriteLine(quotient2);
+
+float a = 5;
+int b = 4;
+int c = 5;
+int d = 6;
+float formula = a*b/(c+d);
+Console.WriteLine(formula);
